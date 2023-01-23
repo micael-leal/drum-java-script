@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 100vh - 100;
+    position: relative;
+    margin-top: 100px;
+}
+.content{
+    margin-right:auto;
+    margin-left: auto;
+    width: 1000px;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
